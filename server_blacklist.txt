@@ -1,0 +1,39 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"  ►  BlackWonder AUS | MGE  ◄"
+		"date"		"1660972003"
+		"addr"		"139.99.130.6:27075"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder AUS | Minecraft World  ◄"
+		"date"		"1660972005"
+		"addr"		"139.99.130.6:27070"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder AUS | Orange | x10 Weapons  ◄"
+		"date"		"1660972006"
+		"addr"		"139.99.130.6:27060"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder AUS | Jailbreak  ◄"
+		"date"		"1660972008"
+		"addr"		"139.99.130.6:27100"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder AUS | Jump  ◄"
+		"date"		"1660972011"
+		"addr"		"139.99.130.6:27055"
+	}
+	"server"
+	{
+		"name"		"  ►  BlackWonder AUS | Hightower | No Carts  ◄"
+		"date"		"1660972012"
+		"addr"		"139.99.130.6:27015"
+	}
+}
